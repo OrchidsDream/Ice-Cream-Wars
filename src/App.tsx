@@ -1,9 +1,9 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
-import Header from './header';
-import Votes from './Votes';
-import AdDesigner from './AdDesigner';
+import Header from './Components/header';
+import Votes from './Components/Votes';
+import AdDesigner from './Components/AdDesigner';
 
 function App() {
   return (

@@ -1,0 +1,14 @@
+.Votes .buttons {
+    display: flex;
+    column-gap: 5px;
+
+}
+
+.Votes .buttons {
+    font-variant: tabular-nums;
+}
+.Votes .bars {
+    height: 25px;
+    
+   
+}

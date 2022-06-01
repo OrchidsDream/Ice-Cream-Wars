@@ -1,0 +1,21 @@
+.AdDesigner .ad {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    box-shadow: 0 4px 4px grey;
+}
+
+.AdDesigner .buttons {
+    display: flex;
+    column-gap: 5px;
+
+}
+
+.AdDesigner .buttons {
+    font-variant: tabular-nums;
+}
+
+.AdDesigner .dark {
+    color: white;
+    background: black;
+}
